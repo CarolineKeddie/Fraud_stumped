@@ -13,7 +13,7 @@ This interactive demo shows how synthetic identities can bypass traditional frau
 - Shows how synthetic identities **slip through undetected**
 - Retrains the model with synthetic data labeled as fraud
 - Shows improved performance in detecting adversarial examples
-- Visualizes the improvement in a **bar chart** comparing accuracy
+- Visualises the improvement in a **bar chart** comparing accuracy
 
 ---
 
