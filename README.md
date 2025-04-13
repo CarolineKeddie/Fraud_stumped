@@ -2,7 +2,7 @@
 
 **The Identity That Never Existed: Exposing Synthetic Fraud with Adversarial AI**
 
-This interactive demo shows how synthetic identities can bypass traditional fraud models—and how adversarial AI can retrain those models to be more robust. Built by [Advai](https://advai.com) for demonstrating AI assurance to financial institutions.
+This interactive demo shows how synthetic identities can bypass traditional fraud models—and how adversarial AI can retrain those models to be more robust. Built by Caroline Keddie for demonstrating AI assurance to financial institutions.
 
 ---
 
